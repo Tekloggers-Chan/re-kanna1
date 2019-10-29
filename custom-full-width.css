@@ -1,0 +1,7 @@
+<b:if cond='data:blog.pageType == &quot;static_page&quot;'>
+<style>
+#sidebar-wrapper {display: none;}
+#main-wrapper {width: 100%;}
+article.post.hentry {border-top: 4px solid #6d87db;}
+</style>
+</b:if>
